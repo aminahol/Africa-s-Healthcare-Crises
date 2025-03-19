@@ -134,3 +134,6 @@ fig.show()
 print("Countries with Negative Correlation:")
 print(negative_correlation_countries)
 
+<img width="955" alt="image" src="https://github.com/user-attachments/assets/9ed616f9-8251-41fc-8de8-c93b4fed00fd" />
+
+
