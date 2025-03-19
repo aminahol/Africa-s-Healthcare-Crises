@@ -134,7 +134,6 @@ fig.show()
 print("Countries with Negative Correlation:")
 print(negative_correlation_countries)
 
-### 2. Population vs. Mortality Correlation  
 ![image](https://github.com/user-attachments/assets/99a5c368-a5fd-494b-8e53-cef32c689783)
 
 
