@@ -62,10 +62,16 @@ To ensure accuracy and consistency, **Power Query** was used for data cleaning. 
 ## Analysis & Key Insights  
 
 ### 1. Mortality Trends Over Time (1990–2019)  
+![Data Model](https://github.com/aminahol/Africa-s-Healthcare-Crises/blob/main/visuals/HC%20Annual%20Trends.png?raw=true)
 The **annual mortality trend** shows a **sharp increase in deaths in 1994**, followed by a **steady rise between 2000 and 2005**, peaking at **9.3 million deaths**.  
 
 ### 2. Population vs. Mortality Correlation  
+![image](https://github.com/user-attachments/assets/41152057-c8f9-4690-a6e8-f5e2d3778b4f)
+
+
 The scatter plot below highlights the relationship between **population size and mortality rates**. While there is a **general positive correlation**, some countries **show non-linear trends**, indicating other influencing factors.  
+![image](https://github.com/user-attachments/assets/926c404e-5c56-4e96-97e0-31551c6229ed)
+
 
 To further investigate, I used **Python (Plotly)** to highlight **countries with negative correlations** in red.  
 
