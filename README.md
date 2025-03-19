@@ -76,6 +76,8 @@ The scatter plot below highlights the relationship between **population size and
 To further investigate, I used **Python (Plotly)** to highlight **countries with negative correlations** in red.  
 
 #### Python Code for Population-Mortality Correlation Analysis:  
+### 3. Population vs. Mortality Correlation  (Plotly)
+
 ```python
 import pandas as pd
 import plotly.express as px
@@ -133,8 +135,7 @@ fig.show()
 # Print countries with negative correlation
 print("Countries with Negative Correlation:")
 print(negative_correlation_countries)
+```
 
 ![image](https://github.com/user-attachments/assets/99a5c368-a5fd-494b-8e53-cef32c689783)
-
-
 
