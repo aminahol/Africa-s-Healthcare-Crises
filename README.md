@@ -55,7 +55,7 @@ To ensure accuracy and consistency, **Power Query** was used for data cleaning. 
 - Designed a **star schema**, linking the country table to other datasets for efficient querying.  
 
 ### Data Model Structure:  
-![Data Model](https://raw.githubusercontent.com/your-username/your-repository/main/data_model.png)  
+![Data Model](visuals/Health Crises Data Model.png)  
 
 ---
 
