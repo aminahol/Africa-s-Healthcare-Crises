@@ -7,15 +7,15 @@ By examining mortality rates, medical access, and socioeconomic factors, this st
 Data Description
 This analysis is based on a dataset comprising six related datasets, each providing valuable insights into healthcare and mortality trends across African countries. The datasets include:
 
-1. Mortality Data:
+1. Mortality Data
 Number of deaths by cause
 Number of deaths by age group
-2. Healthcare Access:
+2. Healthcare Access
 Number of medical doctors per 10,000 people
-3. Geographical & Population Data:
+3. Geographical & Population Data
 Country and continent classifications (ISO 3166 codes)
 World population figures
-4. Economic Indicator:
+4. Economic Indicator
 Health expenditure as a percentage of GDP
 These datasets were sourced from [Insert Data Source] and combined to facilitate a comprehensive exploration of healthcare crises in Africa.
 
@@ -39,15 +39,3 @@ In the doctors per 10,000 population dataset, values like ">1" and ">100" were r
 6. Creating and Linking Tables
 Created a date table and linked it to the datasets for time-based analysis.
 Established a star schema relationship, linking the country table to the datasets, treating them as fact tables for structured querying.
-Data Model
-Below is the star schema used for this analysis:
-
-
-Analysis
-Annual Mortality Trend (1990–2019)
-This visual presents the annual mortality trend from 1990 to 2019. A sharp increase in deaths was observed in 1994, followed by a steady rise between 2000 and 2005, peaking at 9.3 million deaths.
-
-Population vs. Mortality Correlation
-The image below shows the top 5 most populous African countries, with Nigeria accounting for 35% of the total population. The scatter plot also examines the correlation between population size and mortality rates, revealing a general positive correlation.
-
-However, some countries exhibit non-linear patterns, suggesting other influencing factors beyond population size. To further investigate, I used Python (Plotly) to create a custom visualization highlighting countries with negative correlations.
