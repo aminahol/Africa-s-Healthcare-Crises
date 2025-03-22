@@ -144,7 +144,7 @@ Rwanda presents a notable anomaly, with a sharp mortality spike in 1994, coincid
 
 ## Top Countries by %GDP Spent on Healthcare
 
-![Top Countries by %GDP](https://github.com/aminahol/Africa-s-Healthcare-Crises/blob/9c411ecb4df59b3d27cc65833acf622825246e1f/visuals/Top%20Countries%20by%20%25GDP.png)
+![Top Countries by %GDP](https://github.com/aminahol/Africa-s-Healthcare-Crises/blob/228bc724c1177e765be01b5d777077f1acd8750e/visuals/Top%20Countries%20by%20%25GDP.png)
 
 This chart displays the top five African countries that allocate the highest percentage of their GDP to healthcare.
 
@@ -162,11 +162,13 @@ Cardiovascular diseases are the leading cause, accounting for 37 million deaths.
 
 ![Leading Causes of Mortality](https://github.com/aminahol/Africa-s-Healthcare-Crises/blob/fa662edf288e9e86c648b54ab63196456fbf2554/visuals/Trend%20of%20Top%20Causes%20of%20Mortality.png)
 
+Cardiovascular-related mortality has shown a steady increase over time, unlike other causes such as HIV and neonatal disorders, which have peaked, or diseases like diarrhea and lower respiratory infections, which have steadily declined.
+
 ## Mortality Distribution by Age Group
 
 ![Mortality by Age Group](https://github.com/aminahol/Africa-s-Healthcare-Crises/blob/9c411ecb4df59b3d27cc65833acf622825246e1f/visuals/Mortality%20Distribution%20by%20Age%20group.png)
 
-Children under 5 years old have the highest mortality rate, with 116 million deaths, accounting for approximately 41% of total deaths.
+Children under five years old have the highest mortality rate, totaling 116 million deaths and accounting for approximately 41% of total deaths, highlighting the urgent need for targeted interventions.
 
 ## Countries with the Highest Number of Doctors
 
@@ -178,7 +180,7 @@ Nigeria and Egypt lead in the number of doctors. While this may be attributed to
 
 ![Healthcare Access vs. Mortality](https://github.com/aminahol/Africa-s-Healthcare-Crises/blob/9c411ecb4df59b3d27cc65833acf622825246e1f/visuals/HealthCare%20Access%20vs%20Mortality.png)
 
-Both Tunisia and Algeria are among the top five countries in healthcare access. However, the data shows a weak correlation between healthcare access and mortality rates.
+Both Tunisia and Algeria are among the top five countries in healthcare access. However, the data shows a weak correlation between healthcare access and mortality rates and this indicates that while health care access is essential, it alone does not significantly determine mortality rates.
 
 
 
