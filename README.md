@@ -141,3 +141,40 @@ print(negative_correlation_countries)
 Most countries exhibit a positive correlation between population size and total deaths, where mortality increases alongside population growth. In contrast, **Ethiopia, Tanzania, and Rwanda** (marked with red trendlines) show a **negative correlation**, meaning that despite population growth, total deaths have declined or remained stable. This suggests improvements in **healthcare access, economic conditions, or disease control**.  
 
 **Rwanda presents a notable anomaly**, with a **sharp mortality spike in 1994**, coinciding with the **Rwandan Genocide**, highlighting the impact of conflict on mortality trends.
+
+## Top Countries by %GDP Spent on Healthcare  
+![Top Countries by %GDP](https://github.com/aminahol/Africa-s-Healthcare-Crises/blob/9c411ecb4df59b3d27cc65833acf622825246e1f/visuals/Top%20Countries%20by%20%25GDP.png)  
+
+This horizontal bar chart displays the top five African countries that allocate the highest percentage
+ of their GDP to healthcare.  
+
+## Economic Strength vs. Mortality  
+![Top Countries by %GDP](https://github.com/aminahol/Africa-s-Healthcare-Crises/blob/9c411ecb4df59b3d27cc65833acf622825246e1f/visuals/Economic%20Strength%20vs%20Mortality.png)
+
+This scatter plot examines the relationship between economic strength (represented by %GDP spent on healthcare) and mortality rates.  
+
+- The dotted trendline shows a slight negative correlation, meaning that as GDP spending on healthcare increases, mortality rates tend to decrease.  
+- However, some countries with high healthcare spending (e.g., Sierra Leone) still experience high mortality rates, suggesting that factors beyond healthcare investment, such as infrastructure, disease burden, and healthcare quality, play a role.  
+
+## Top Countries With Leading Causes of Mortality and Trend Over the Years  
+![Leading Causes of Mortality](https://github.com/aminahol/Africa-s-Healthcare-Crises/blob/9c411ecb4df59b3d27cc65833acf622825246e1f/visuals/Leading%20Causes%20of%20Mortality.png)
+
+We observe that cardiovascular diseases are the leading cause, accounting for 37 million deaths. From the charts, we can see that this trend has been steadily increasing over the years.  
+
+## Mortality Distribution by Age Group  
+![Mortality by Age Group](https://github.com/aminahol/Africa-s-Healthcare-Crises/blob/9c411ecb4df59b3d27cc65833acf622825246e1f/visuals/Mortality%20Distribution%20by%20Age%20group.png)
+
+We observe that children under 5 years old have the highest mortality rate, with 116 million deaths, accounting for approximately 41% of total deaths.  
+
+## Countries with the Highest Number of Doctors  
+![Countries with Most Doctors](https://github.com/aminahol/Africa-s-Healthcare-Crises/blob/9c411ecb4df59b3d27cc65833acf622825246e1f/visuals/Top%20Countries%20by%20Healthcare%20Workforce.png)  
+
+Nigeria and Egypt lead in the number of doctors. While this may be attributed to population size, countries like Tunisia and Algeria, which do not have the largest populations, also have a high number of doctors. This is why the **healthcare access (relative to population size) and its effect on mortality** are explored in the visuals below.  
+
+## Top Countries with Healthcare Access and Its Relationship with Mortality  
+![Countries with Most Healthcare Access](https://github.com/aminahol/Africa-s-Healthcare-Crises/blob/9c411ecb4df59b3d27cc65833acf622825246e1f/visuals/Top%20Countries%20by%20Healthcare%20Workforce.png)
+
+![Healthcare Access vs Mortality](https://github.com/aminahol/Africa-s-Healthcare-Crises/blob/9c411ecb4df59b3d27cc65833acf622825246e1f/visuals/HealthCare%20Access%20vs%20Mortality.png)
+
+Both Tunisia and Algeria are among the top five countries in healthcare access. However, the data shows a **weak correlation** between healthcare access and mortality rates.  
+
