@@ -135,7 +135,8 @@ fig.show()
 print("Countries with Negative Correlation:")
 print(negative_correlation_countries)
 ```
-https://github.com/aminahol/Africa-s-Healthcare-Crises/blob/b34ed2b814b1a17a7ca4060d340884d2b99cc846/visuals/Population%20Vs%20Mortality.png
+![image](https://github.com/aminahol/Africa-s-Healthcare-Crises/blob/b7a724cb6947497e658eddd01cc0658bd2a3b211/visuals/Population%20Vs%20Mortality%20(Plotly).png)
+
 
 Most countries exhibit a positive correlation between population size and total deaths, where mortality increases alongside population growth. In contrast, **Ethiopia, Tanzania, and Rwanda** (marked with red trendlines) show a **negative correlation**, meaning that despite population growth, total deaths have declined or remained stable. This suggests improvements in **healthcare access, economic conditions, or disease control**.  
 
