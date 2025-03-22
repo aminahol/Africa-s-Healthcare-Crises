@@ -135,13 +135,12 @@ fig.show()
 print("Countries with Negative Correlation:")
 print(negative_correlation_countries)
 ```
-![image](https://github.com/aminahol/Africa-s-Healthcare-Crises/blob/b7a724cb6947497e658eddd01cc0658bd2a3b211/visuals/Population%20Vs%20Mortality%20(Plotly).png)
 
 ![Population vs. Mortality](https://github.com/aminahol/Africa-s-Healthcare-Crises/blob/b7a724cb6947497e658eddd01cc0658bd2a3b211/visuals/Population%20Vs%20Mortality%20(Plotly).png)
 
 Most countries exhibit a positive correlation between population size and total deaths, where mortality increases alongside population growth. In contrast, **Ethiopia, Tanzania, and Rwanda** (marked with red trendlines) show a **negative correlation**, indicating that despite population growth, total deaths have declined or remained stable. This suggests improvements in **healthcare access, economic conditions, or disease control**.
 
-**Rwanda presents a notable anomaly**, with a **sharp mortality spike in 1994**, coinciding with the **Rwandan Genocide**, highlighting the impact of conflict on mortality trends.
+Rwanda presents a notable anomaly, with a sharp mortality spike in 1994, coinciding with the **Rwandan Genocide**, highlighting the impact of conflict on mortality trends.
 
 ## Top Countries by %GDP Spent on Healthcare
 
