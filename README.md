@@ -146,16 +146,13 @@ Rwanda presents a notable anomaly, with a sharp mortality spike in 1994, coincid
 
 ![Top Countries by %GDP](https://github.com/aminahol/Africa-s-Healthcare-Crises/blob/9c411ecb4df59b3d27cc65833acf622825246e1f/visuals/Top%20Countries%20by%20%25GDP.png)
 
-This horizontal bar chart displays the top five African countries that allocate the highest percentage of their GDP to healthcare.
+This chart displays the top five African countries that allocate the highest percentage of their GDP to healthcare.
 
 ## Economic Strength vs. Mortality
 
 ![Economic Strength vs. Mortality](https://github.com/aminahol/Africa-s-Healthcare-Crises/blob/9c411ecb4df59b3d27cc65833acf622825246e1f/visuals/Economic%20Strength%20vs%20Mortality.png)
 
-This scatter plot examines the relationship between economic strength (represented by %GDP spent on healthcare) and mortality rates.
-
-- The dotted trendline shows a slight negative correlation, indicating that as GDP spending on healthcare increases, mortality rates tend to decrease.
-- However, some countries with high healthcare spending (e.g., Sierra Leone) still experience high mortality rates, suggesting that factors beyond healthcare investment, such as infrastructure, disease burden, and healthcare quality, play a role.
+While most countries in the visual maintain a relatively stable mortality rate regardless of GDP allocation, South Africa is an outlier, showing significant variations in mortality. This suggests that factors beyond healthcare spending, such as healthcare quality, infrastructure, or socio-economic conditions, may be influencing mortality trends.
 
 ## Leading Causes of Mortality and Trends Over the Years
 
