@@ -182,5 +182,42 @@ Nigeria and Egypt lead in the number of doctors. While this may be attributed to
 
 Both Tunisia and Algeria are among the top five countries in healthcare access. However, the data shows a weak correlation between healthcare access and mortality rates and this indicates that while health care access is essential, it alone does not significantly determine mortality rates.
 
+## Insights & Recommendations  
+
+### Key Insights & Actionable Steps  
+
+1. **Mortality Trends Over Time**  
+  Rwanda’s spike in mortality in 1994 highlights the need for better ways to detect unusual trends in other countries. Machine learning can help by identifying unexpected increases in deaths, grouping countries with similar patterns, and predicting future trends. This would allow health officials to take action before crises escalate. Additionally, analyzing these patterns can help pinpoint the specific causes behind sudden mortality changes, leading to more effective healthcare strategies.
+2. **South Africa as an Outlier in Healthcare Spending vs. Mortality**  
+   - While higher GDP allocation to healthcare generally correlates with lower mortality, South Africa stands out as an exception, showing significant mortality variations despite substantial healthcare investment.  
+   - This suggests that factors beyond funding—such as healthcare infrastructure, accessibility, and service efficiency—play a crucial role. Addressing these gaps through improved resource management, healthcare training, and equitable service distribution is essential.  
+
+3. **Cardiovascular Diseases: The Leading Cause of Death**  
+   - Cardiovascular-related mortality has been rising steadily over time, unlike other causes and this highlights an urgent need for preventive healthcare, lifestyle awareness programs, and early detection initiatives to curb this trend. Governments should invest in nationwide campaigns promoting heart health, screenings, and treatment accessibility.  
+
+4. **Children Under Five Have the Highest Mortality Rate**  
+   - With 116 million deaths, children under five account for approximately 41% of total deaths, underscoring the need for targeted interventions.  
+   - Investments in maternal healthcare, early childhood vaccinations, nutrition programs, and disease prevention should be prioritized to reduce child mortality rates.  
+
+5. **Population vs. Mortality Correlation**  
+   - Most African countries exhibit a strong correlation between population growth and mortality rates, meaning that as the population increases, the number of deaths rises proportionally.  
+   - However, some countries, such as Ethiopia, Tanzania, and Rwanda, show a negative correlation, where deaths have remained stable or declined despite population growth. This suggests improvements in healthcare access, economic conditions, or disease control.  
+   - Lessons from these countries should be studied and replicated in regions where mortality rates continue to climb.  
+
+6. **Healthcare Access vs. Mortality**  
+   - Countries like Tunisia and Algeria have high numbers of doctors per capita, yet healthcare access alone does not directly translate to lower mortality rates.  
+   - This highlights the need to improve not just healthcare availability but also its efficiency, quality, and affordability to ensure better health outcomes.  
+
+### Potential Machine Learning Applications  
+
+1. **Predictive Mortality Modeling**  
+   - Develop models that forecast future mortality trends based on economic, healthcare, and demographic factors to enable proactive intervention planning.  
+
+2. **Disease Risk Prediction**  
+   - Use machine learning to identify populations at high risk for cardiovascular diseases, neonatal disorders, and other leading causes of death.  
+
+3. **Healthcare Resource Optimization**  
+   - Apply AI-driven solutions to optimize doctor-patient distribution, hospital resource allocation, and funding efficiency, ensuring that healthcare investments have the highest impact.  
+
 
 
