@@ -1,7 +1,9 @@
 # Tackling Healthcare Crises in Africa
 
 ## Introduction  
-This analysis was inspired by a **10alytics Datathon**, where a dataset on healthcare in Africa caught my attention. Although I didn’t participate, I found the dataset intriguing and decided to conduct an independent exploratory analysis to uncover patterns, correlations, and insights that could inform healthcare interventions.  
+The lack of access to adequate medical resources and facilities has led to a significant number of deaths. Many of these deaths could have been prevented with timely access to medical professionals or hospitals in closer proximity.
+
+This analysis was inspired by a 10alytics Datathon, where a dataset on healthcare in Africa caught my attention. Although I didn’t participate, I found the dataset intriguing and decided to conduct an independent exploratory analysis to uncover patterns, correlations, and insights that could inform healthcare interventions.
 
 By analyzing **mortality rates, healthcare access, and socioeconomic factors**, this study highlights critical disparities in healthcare across African nations. The goal is to provide data-driven insights that can help health decision-makers develop effective strategies to improve healthcare access and reduce preventable deaths.  
 
